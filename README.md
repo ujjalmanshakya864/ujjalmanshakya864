@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a flutter project.
-- 🌱 I’m currently learning Flutter and Firebase.
+- 🔭 I’m currently working on Final Year Project.
+- 🌱 I’m currently learning AWS.
 - ⚡ Fun fact: The percentage in the weather forecast is not for probablity of rain.
 
 <!-- 👯 I’m looking to collaborate on ...
